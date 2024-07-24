@@ -1,0 +1,190 @@
+body {
+    font-family: Poppins;
+    position: relative;
+  }
+  .break {
+    border: 0.7px solid #C4C4C4;
+  }
+  .heroSection {
+    display: flex;
+    margin-top: 156px;
+    margin-bottom: 220px;
+    gap: 50px;
+    position: relative;
+  }
+  /* images */
+  .leftSide {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    margin-left: 89px;
+    
+  }
+  .presenting {
+    margin-right: 50px;
+    width: 247px;
+  }
+  .sharing {
+    width: 288px;
+  }
+  .work {
+    width: 521px;
+  
+    margin-left: 70px;
+  }
+  .friends {
+    width: 542px;
+    margin-top: 75px;
+  }
+  .frame27{
+    position: absolute;
+    right: 150px;
+    top: 527px;
+    z-index: -1;
+  }
+  .greenvec{
+    right: -2px;
+    top: -260px;
+    position: absolute;
+  }
+  .bluevec{
+    left: -5px;
+    top: 440px;
+    position: absolute;
+  }
+  /* rightside */
+  .rightSide {
+    width: 542px;
+    text-align: left;
+    margin-top: 26px;
+  }
+  
+  .friends_text :nth-child(1) {
+    font-size: var(--wdgtwht);
+    font-weight: 400;
+    line-height: 37.5px;
+    color: var(--mainclr);
+  }
+  .friends_text :nth-child(2) {
+    font-family: Poppins;
+    font-size: var(--herotextsize);
+    font-weight: 600;
+    line-height: var(--loremlh);
+    margin-bottom: 27px;
+    width: 110%;
+  }
+  .friends_text :nth-child(3) {
+    font-size: var(--cellsubt);
+    font-weight: 400;
+    line-height: 31.5px;
+    color: #868686;
+    width: 84%;
+  }
+  
+  /*& lorem ipsum */
+  .Lorip {
+    text-align: left;
+  
+    width: 54%;
+    margin: 246px 303px 178px 123px;
+  }
+  .Lorip :nth-child(1) {
+    color: var(--mainclr);
+    font-size: var(--ipsumtitle);
+    font-weight: 600;
+    line-height: 72px;
+    margin-bottom: 48px;
+  }
+  .Lorip :nth-child(2) {
+    color: var(--kodexclr);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 40px;
+    width: 120%;
+  }
+  /** purple stick */
+  .purpleStick {
+    width: 499px;
+    height: 437px;
+    margin-bottom: 197px;
+    margin-left: 123px;
+  }
+  .purpleStick h3 {
+    font-size: var(--lsttitle);
+    font-weight: 600;
+    line-height: 48px;
+    margin-top: 29px;
+    margin-bottom: 31px;
+    width: 100%;
+  }
+  .purpleStick p {
+    font-size: var(--toolsize);
+    font-weight: 400;
+    line-height: 40px;
+    margin-bottom: 61px;
+    width: 100%;
+  }
+  .purpleStick button {
+    border: 1px solid #1090cb;
+    background-color: var(--clr);
+    width: 193px;
+    height: 50px;
+    color: var(--mainclr);
+    font-family: Poppins;
+    font-size: var(--navsize);
+    font-weight: 400;
+    line-height: 32.69px;
+    border-radius: 10px;
+  }
+  /* apps */
+  .purplenapps {
+    display: flex;
+    gap: 120px;
+  }
+  .webapp {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 29px;
+  }
+  .webimg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 91px;
+    height: 90px;
+    border-radius: 20px;
+    background-color: var(--app1);
+  }
+  .appsname {
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 44.48px;
+    color: var(--appclr);
+  }
+  .apps12{
+    display: flex;
+    gap: 80px;
+    
+  }
+  .apps34{
+    display: flex;
+    gap: 50px;
+  }
+  .APPLICATIONS{
+    display: flex;
+    flex-direction: column;
+    gap: 55px;
+   margin-top: 10px;
+    height: fit-content;
+    padding: 65px 99px 95px 61px;
+    box-shadow:   3px 3px 40px 3px rgba(216, 216, 216, 0.44);
+  }
+   footer{
+    position: relative;
+   }
+  .socials2{
+  position: absolute;
+  top:730px;
+  right: 100px;
+  }

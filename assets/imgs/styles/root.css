@@ -1,0 +1,43 @@
+:root {
+    --navsize: 16px;
+    --herotextsize: 40px;
+    --logosize: 29px;
+    --toolsize: 20px;
+    --toolsubt: 15px;
+    --celltittle: 33px;
+    --cellsubt: 18px;
+    --greentitle: 17px;
+    --greensubt: 14px;
+    --greenlast: 30px;
+    --wdgtwht: 25px;
+    --marktitle: 24px;
+    --lsttitle: 30px;
+    --xssubtitle: 13px;
+    --mainclr: #1090cb;
+    --toolclr1: #efeaff;
+    --toolclr2: #ecffda;
+    --toolclr3: #dae6ff;
+    --toolclr4: #ffe5da;
+    --greensmile: #08d3bb;
+    --purplesmile: #9208d3;
+    --descclr: #5c5c5c;
+    --clr: #fff;
+    --zeroclr: #000;
+    --heroclr: #1090cb1a;
+    --greyclr: #969696;
+    --br: #c7c7c7;
+    /* app colors */
+    --app1: #fff2f2;
+    --app2: #e2f3ff;
+    --app3: #f1e8ff;
+    --app4: #ffe7fb;
+    /**second page */
+    --ipsumtitle: 45px;
+  
+    --appclr: #2e0d64;
+    --loremlh: 68px;
+    --loremclr: #252525;
+    --kodexclr: #585858;
+    --breakclr: #c4c4c4;
+    --kodextitleLH: 48px;
+  }
